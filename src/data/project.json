@@ -4,7 +4,7 @@
       "imageSrc": "projects/CarDealership.png",
       "description": "A car service booking platform that allows users to find nearby service centers and book appointments.",
       "skills": ["React", "Tailwind","Node","Redux"],
-      "demo": "https://vercel.live/link/car-dealership-eight.vercel.app/?via=team-dashboard-project-entity&p=1",
+      "demo": "https://car-dealership-eight.vercel.app/",
       "source": "https://github.com/Harshit1208kapil/Car-Dealership"
     },
     {
@@ -12,7 +12,7 @@
       "imageSrc": "projects/WeatherApp.png",
       "description": "A real-time weather forecasting app providing current conditions, hourly updates, and extended forecasts for any location.",
       "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://vercel.live/link/weather-app-bice-kappa.vercel.app/?via=team-dashboard-project-entity&p=1",
+      "demo": "https://weather-app-bice-kappa.vercel.app/",
       "source": "https://github.com/Harshit1208kapil/Weather-App"
     },
     {
@@ -28,7 +28,7 @@
       "imageSrc": "projects/PasswordGen.png",
       "description": "A secure password generator that creates strong, random passwords with customizable options for length, numbers, and special characters.",
       "skills": ["React", "Tailwind", "Node"],
-      "demo": "https://vercel.live/link/random-password-gen-git-110531-harshit-kapils-projects-9d018e94.vercel.app?via=deployment-domains-list&p=1",
+      "demo": "https://random-password-generator-two-blush.vercel.app/",
       "source": "https://github.com/Harshit1208kapil/Random-password-generator"
     },
     {
@@ -36,7 +36,7 @@
       "imageSrc": "projects/project.png",
       "description": "A real-time stock and cryptocurrency tracker that provides up-to-date prices and trends for various stocks and cryptocurrencies.",
       "skills": ["React", "Express", "Node", "Redux"],
-      "demo": "https://www.example.com",
+      "demo": "https://vercel.live/link/car-dealership-eight.vercel.app/?via=team-dashboard-project-entity&p=1",
       "source": "https://www.github.com"
     }
   ]
