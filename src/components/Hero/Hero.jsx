@@ -9,7 +9,7 @@ export const Hero = () => {
         <p className="text-lg lg:text-2xl mb-8  lg:text-left text-justify">
           As a dedicated B. Tech student, I am focused on building a solid foundation in software development. I specialize in programming languages such as Python, Java, and C++, equipping me with the versatility to solve complex problems efficiently. My expertise in front-end and back-end frameworks, particularly React, Node.js, and Express.js, enhances my ability to develop dynamic, responsive web applications. Having collaborated in team environments and contributed to full-stack development projects, I am adept at problem-solving, communication, and delivering optimized solutions. I am eager to secure a role as a software developer where I can apply my technical knowledge, collaborate with cross-functional teams, and drive impactful results.
         </p>
-        <a href="mailto:myemail@email.com" className="bg-blue-500 text-white rounded-full text-lg lg:text-2xl px-8 py-3 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg">
+        <a href="mailto:work.harshitkapil@gmail.com" className="bg-blue-500 text-white rounded-full text-lg lg:text-2xl px-8 py-3 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg">
           Contact Me
         </a>
       </div>
