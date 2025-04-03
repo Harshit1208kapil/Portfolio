@@ -1,5 +1,13 @@
 [
     {
+      "title": "Stock Market App",
+      "imageSrc": "projects/InfraTrade.png",
+      "description": "A real-time stock and cryptocurrency tracker that provides up-to-date prices and trends for various stocks and cryptocurrencies.",
+      "skills": ["React", "Express", "Node", "Redux"],
+      "demo": "https://vercel.live/link/car-dealership-eight.vercel.app/?via=team-dashboard-project-entity&p=1",
+      "source": "https://www.github.com"
+    },
+    {
       "title": "Car Dealership",
       "imageSrc": "projects/CarDealership.png",
       "description": "A car service booking platform that allows users to find nearby service centers and book appointments.",
@@ -30,13 +38,5 @@
       "skills": ["React", "Tailwind", "Node"],
       "demo": "https://random-password-generator-two-blush.vercel.app/",
       "source": "https://github.com/Harshit1208kapil/Random-password-generator"
-    },
-    {
-      "title": "Stock Market App",
-      "imageSrc": "projects/project.png",
-      "description": "A real-time stock and cryptocurrency tracker that provides up-to-date prices and trends for various stocks and cryptocurrencies.",
-      "skills": ["React", "Express", "Node", "Redux"],
-      "demo": "https://vercel.live/link/car-dealership-eight.vercel.app/?via=team-dashboard-project-entity&p=1",
-      "source": "https://www.github.com"
     }
   ]
