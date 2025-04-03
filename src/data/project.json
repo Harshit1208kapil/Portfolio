@@ -4,8 +4,8 @@
       "imageSrc": "projects/InfraTrade.png",
       "description": "A real-time stock and cryptocurrency tracker that provides up-to-date prices and trends for various stocks and cryptocurrencies.",
       "skills": ["React", "Express", "Node", "Redux"],
-      "demo": "https://vercel.live/link/car-dealership-eight.vercel.app/?via=team-dashboard-project-entity&p=1",
-      "source": "https://www.github.com"
+      "demo": "https://infra-trade-tech.vercel.app/",
+      "source": "https://github.com/Harshit1208kapil/Infra-Trade-Tech"
     },
     {
       "title": "Car Dealership",
